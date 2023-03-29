@@ -1,6 +1,7 @@
 # BDA301
 Course Materials: Introduction to Business Data Analytics of Large Scale Data
 
+This consists of lecture notes from my own course on BDA taking the angle of also attempting to teach Python.
 
 Course Description: 
 
